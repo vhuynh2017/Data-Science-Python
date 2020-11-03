@@ -33,13 +33,14 @@ The repository contains Data Science related assignments or projects. The source
 * Compute p-values
 * Test of Correlation
 
-5. Regression Analysis [Part 1](../master/Regression%20Analysis/Types%20of%20Regression%20%26%20Regression%20Analysis.ipynb), [Part 2](../master/Regression%20Analysis/CAP5768_Assignment6_VinhHuynh.ipynb)
+5. Regression Analysis [Part 1](../master/Regression%20Analysis/Types%20of%20Regression%20%26%20Regression%20Analysis.ipynb), [Part 2](../master/Regression%20Analysis/CAP5768_Assignment6_VinhHuynh.ipynb), [Part 3](../master/Regression%20Analysis/Logistic%20Regression.ipynb)
 * Linear Regression by least squares
 * Linear Regression on Anscombe's quartet data
 * Polynomial Regression
 * Regularization in Polynomial Regression: Ridge regression (L2 Regularization), Lasso regression (L1 Regularization)
 * Compute RMSE and R^2 score 
 * Multiple Regression
+* Logistic Regression
 
 6. [Data Science / Machine Learning workflow (CAP5768 Final Project)](../master/CAP5768%20Final%20Project/CAP5768_FinalProject_VinhHuynh.ipynb)
 * Compute Summary Statistics
